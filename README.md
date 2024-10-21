@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Profile Screenshot](![image](https://github.com/arunkabish1/Challenge-1/blob/main/Screenshot%20(2).png)
-)
+![Profile Screenshot](https://github.com/arunkabish1/Challenge-1/blob/main/Screenshot%20(2).png)
+
 
 This is a simple profile card that includes an avatar, name, location, and links to social platforms. It showcases responsive design and hover states for the buttons. The screenshot above shows the profile card on a standard viewport.
 
