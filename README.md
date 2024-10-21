@@ -53,12 +53,13 @@ While working on this project, I learned to combine **Tailwind CSS** with React 
 
 Here are a few key code snippets:
 
-```js
+```jsx
 <img
   src={face}
   alt="jessica.jpeg"
   className="mx-auto h-16 w-auto rounded-full"
 />
+```
 
 ### Continued development
 Moving forward, I plan to continue working on accessibility and optimizing responsive designs for larger screens. I also want to explore more animations and transitions in React and Tailwind CSS for smoother user experiences.
